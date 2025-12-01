@@ -118,7 +118,7 @@ LSTM / BiLSTM
 Transformer-based classifiers (BERT, DistilBERT)
 
 Final chosen model:
-👉 (Specify your best-performing model here — I can fill this part if you tell me!)
+Logistic Regression
 
 6️⃣ Evaluation
 
@@ -146,6 +146,7 @@ Export submission.csv
 
 📁 Repository Structure
 mental-health-text-classification/
+
 │
 ├── data/
 │   ├── train.csv
