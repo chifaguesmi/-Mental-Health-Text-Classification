@@ -149,16 +149,21 @@ mental-health-text-classification/
 
 │
 ├── data/
+
 │   ├── train.csv
+
 │   ├── test.csv
+
 │   └── sample_submission.csv
 
 │
 ├── notebooks/
+
 │   └── dragon-regression (2).ipynb
 
 │
 ├── submission/
+
 │   └── submission.csv
 
 │
